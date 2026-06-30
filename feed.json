@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generator": "bka-viewer/1.0.0",
+  "generatedAt": "2026-06-30T07:27:16.964Z",
+  "creator": {
+    "handle": "selftest",
+    "displayName": "Self Test",
+    "bio": "verifying the publish path.",
+    "siteUrl": "https://bka-publish-selftest.pages.dev",
+    "language": "en",
+    "discoverable": true
+  },
+  "items": [
+    {
+      "slug": "hello-world",
+      "title": "Hello, world",
+      "summary": "The first post on my new site, on my own infrastructure.",
+      "url": "https://bka-publish-selftest.pages.dev/posts/hello-world",
+      "publishedAt": "2026-06-30T07:27:16.964Z",
+      "updatedAt": "2026-06-30T07:27:16.964Z",
+      "tags": [
+        "intro"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "discoverable": true,
+      "language": "en",
+      "wordCount": 62,
+      "external": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Self Test</title>
+    <link>https://bka-publish-selftest.pages.dev</link>
+    <description>verifying the publish path.</description>
+    <language>en</language>
+    <item>
+      <title>Hello, world</title>
+      <link>https://bka-publish-selftest.pages.dev/posts/hello-world</link>
+      <guid isPermaLink="true">https://bka-publish-selftest.pages.dev/posts/hello-world</guid>
+      <description>The first post on my new site, on my own infrastructure.</description>
+      <pubDate>Tue, 30 Jun 2026 07:27:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

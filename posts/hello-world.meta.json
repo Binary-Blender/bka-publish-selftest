@@ -1,0 +1,15 @@
+{
+  "slug": "hello-world",
+  "title": "Hello, world",
+  "summary": "The first post on my new site, on my own infrastructure.",
+  "tags": [
+    "intro"
+  ],
+  "kinds": [
+    "text"
+  ],
+  "publishedAt": "2026-06-30T07:27:16.964Z",
+  "updatedAt": "2026-06-30T07:27:16.964Z",
+  "language": "en",
+  "external": null
+}

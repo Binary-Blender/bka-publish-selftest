@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bka-publish-selftest.pages.dev/sitemap.xml
